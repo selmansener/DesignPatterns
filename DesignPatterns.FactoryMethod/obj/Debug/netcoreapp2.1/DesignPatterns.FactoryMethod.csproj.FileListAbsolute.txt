@@ -1,0 +1,11 @@
+C:\Playground\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\netcoreapp2.1\DesignPatterns.FactoryMethod.deps.json
+C:\Playground\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\netcoreapp2.1\DesignPatterns.FactoryMethod.runtimeconfig.json
+C:\Playground\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\netcoreapp2.1\DesignPatterns.FactoryMethod.runtimeconfig.dev.json
+C:\Playground\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\netcoreapp2.1\DesignPatterns.FactoryMethod.dll
+C:\Playground\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\netcoreapp2.1\DesignPatterns.FactoryMethod.pdb
+C:\Playground\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\netcoreapp2.1\DesignPatterns.FactoryMethod.csprojAssemblyReference.cache
+C:\Playground\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\netcoreapp2.1\DesignPatterns.FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\netcoreapp2.1\DesignPatterns.FactoryMethod.AssemblyInfoInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\netcoreapp2.1\DesignPatterns.FactoryMethod.AssemblyInfo.cs
+C:\Playground\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\netcoreapp2.1\DesignPatterns.FactoryMethod.dll
+C:\Playground\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\netcoreapp2.1\DesignPatterns.FactoryMethod.pdb
