@@ -1,0 +1,10 @@
+C:\Playground\DesignPatterns\DesignPatterns.Bridge\bin\Debug\netcoreapp2.1\DesignPatterns.Bridge.deps.json
+C:\Playground\DesignPatterns\DesignPatterns.Bridge\bin\Debug\netcoreapp2.1\DesignPatterns.Bridge.runtimeconfig.json
+C:\Playground\DesignPatterns\DesignPatterns.Bridge\bin\Debug\netcoreapp2.1\DesignPatterns.Bridge.runtimeconfig.dev.json
+C:\Playground\DesignPatterns\DesignPatterns.Bridge\bin\Debug\netcoreapp2.1\DesignPatterns.Bridge.dll
+C:\Playground\DesignPatterns\DesignPatterns.Bridge\bin\Debug\netcoreapp2.1\DesignPatterns.Bridge.pdb
+C:\Playground\DesignPatterns\DesignPatterns.Bridge\obj\Debug\netcoreapp2.1\DesignPatterns.Bridge.csproj.CoreCompileInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.Bridge\obj\Debug\netcoreapp2.1\DesignPatterns.Bridge.AssemblyInfoInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.Bridge\obj\Debug\netcoreapp2.1\DesignPatterns.Bridge.AssemblyInfo.cs
+C:\Playground\DesignPatterns\DesignPatterns.Bridge\obj\Debug\netcoreapp2.1\DesignPatterns.Bridge.dll
+C:\Playground\DesignPatterns\DesignPatterns.Bridge\obj\Debug\netcoreapp2.1\DesignPatterns.Bridge.pdb

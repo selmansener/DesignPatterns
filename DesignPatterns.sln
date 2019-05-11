@@ -5,15 +5,21 @@ VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CreationalPatterns", "CreationalPatterns", "{7B4AD2D4-0475-411A-8C57-DEEC28E7C9DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.AbstractFactory", "DesignPatterns.AbstractFactory\DesignPatterns.AbstractFactory.csproj", "{8A4A9BC2-B076-4531-B5F8-E3034324CFA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.AbstractFactory", "DesignPatterns.AbstractFactory\DesignPatterns.AbstractFactory.csproj", "{8A4A9BC2-B076-4531-B5F8-E3034324CFA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Builder", "DesignPatterns.Builder\DesignPatterns.Builder.csproj", "{9E16BB08-0B7C-47FE-AD75-D382447FF66E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Builder", "DesignPatterns.Builder\DesignPatterns.Builder.csproj", "{9E16BB08-0B7C-47FE-AD75-D382447FF66E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.FactoryMethod", "DesignPatterns.FactoryMethod\DesignPatterns.FactoryMethod.csproj", "{15B5E0FF-6A2E-4246-8F60-3A70355C99BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.FactoryMethod", "DesignPatterns.FactoryMethod\DesignPatterns.FactoryMethod.csproj", "{15B5E0FF-6A2E-4246-8F60-3A70355C99BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Prototype", "DesignPatterns.Prototype\DesignPatterns.Prototype.csproj", "{A21648AA-2CC6-437C-B28C-C9E1AEC532FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Prototype", "DesignPatterns.Prototype\DesignPatterns.Prototype.csproj", "{A21648AA-2CC6-437C-B28C-C9E1AEC532FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Singleton", "DesignPatterns.Singleton\DesignPatterns.Singleton.csproj", "{B7912A5A-1FED-4812-8825-1CF7C4B31AC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Singleton", "DesignPatterns.Singleton\DesignPatterns.Singleton.csproj", "{B7912A5A-1FED-4812-8825-1CF7C4B31AC2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StructuralPatterns", "StructuralPatterns", "{E7623507-DE8B-4821-AD8E-9C19DA857561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Adapter", "DesignPatterns.Adapter\DesignPatterns.Adapter.csproj", "{48BC6148-9816-40A5-879F-CF8386F86415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Bridge", "DesignPatterns.Bridge\DesignPatterns.Bridge.csproj", "{8BD21DB4-4EB2-413C-BF74-C038F471CBA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +47,14 @@ Global
 		{B7912A5A-1FED-4812-8825-1CF7C4B31AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7912A5A-1FED-4812-8825-1CF7C4B31AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7912A5A-1FED-4812-8825-1CF7C4B31AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BC6148-9816-40A5-879F-CF8386F86415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BC6148-9816-40A5-879F-CF8386F86415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BC6148-9816-40A5-879F-CF8386F86415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BC6148-9816-40A5-879F-CF8386F86415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD21DB4-4EB2-413C-BF74-C038F471CBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD21DB4-4EB2-413C-BF74-C038F471CBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD21DB4-4EB2-413C-BF74-C038F471CBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD21DB4-4EB2-413C-BF74-C038F471CBA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +65,8 @@ Global
 		{15B5E0FF-6A2E-4246-8F60-3A70355C99BC} = {7B4AD2D4-0475-411A-8C57-DEEC28E7C9DE}
 		{A21648AA-2CC6-437C-B28C-C9E1AEC532FE} = {7B4AD2D4-0475-411A-8C57-DEEC28E7C9DE}
 		{B7912A5A-1FED-4812-8825-1CF7C4B31AC2} = {7B4AD2D4-0475-411A-8C57-DEEC28E7C9DE}
+		{48BC6148-9816-40A5-879F-CF8386F86415} = {E7623507-DE8B-4821-AD8E-9C19DA857561}
+		{8BD21DB4-4EB2-413C-BF74-C038F471CBA8} = {E7623507-DE8B-4821-AD8E-9C19DA857561}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5151917E-2781-49B7-BDC3-F37D762E3D40}
