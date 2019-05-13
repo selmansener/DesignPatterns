@@ -1,0 +1,10 @@
+C:\Playground\DesignPatterns\DesignPatterns.Proxy\bin\Debug\netcoreapp2.1\DesignPatterns.Proxy.deps.json
+C:\Playground\DesignPatterns\DesignPatterns.Proxy\bin\Debug\netcoreapp2.1\DesignPatterns.Proxy.runtimeconfig.json
+C:\Playground\DesignPatterns\DesignPatterns.Proxy\bin\Debug\netcoreapp2.1\DesignPatterns.Proxy.runtimeconfig.dev.json
+C:\Playground\DesignPatterns\DesignPatterns.Proxy\bin\Debug\netcoreapp2.1\DesignPatterns.Proxy.dll
+C:\Playground\DesignPatterns\DesignPatterns.Proxy\bin\Debug\netcoreapp2.1\DesignPatterns.Proxy.pdb
+C:\Playground\DesignPatterns\DesignPatterns.Proxy\obj\Debug\netcoreapp2.1\DesignPatterns.Proxy.csproj.CoreCompileInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.Proxy\obj\Debug\netcoreapp2.1\DesignPatterns.Proxy.AssemblyInfoInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.Proxy\obj\Debug\netcoreapp2.1\DesignPatterns.Proxy.AssemblyInfo.cs
+C:\Playground\DesignPatterns\DesignPatterns.Proxy\obj\Debug\netcoreapp2.1\DesignPatterns.Proxy.dll
+C:\Playground\DesignPatterns\DesignPatterns.Proxy\obj\Debug\netcoreapp2.1\DesignPatterns.Proxy.pdb

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2018
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CreationalPatterns", "CreationalPatterns", "{7B4AD2D4-0475-411A-8C57-DEEC28E7C9DE}"
 EndProject
@@ -21,9 +21,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Adapter", "D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Bridge", "DesignPatterns.Bridge\DesignPatterns.Bridge.csproj", "{8BD21DB4-4EB2-413C-BF74-C038F471CBA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Composite", "DesignPatterns.Composite\DesignPatterns.Composite.csproj", "{5AD2D7E8-4D30-484C-AFA4-6E1717481A1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Composite", "DesignPatterns.Composite\DesignPatterns.Composite.csproj", "{5AD2D7E8-4D30-484C-AFA4-6E1717481A1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Decorator", "DesignPatterns.Decorator\DesignPatterns.Decorator.csproj", "{CA7DCDA2-0550-4D0A-921A-078F3F3CFA99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Decorator", "DesignPatterns.Decorator\DesignPatterns.Decorator.csproj", "{CA7DCDA2-0550-4D0A-921A-078F3F3CFA99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Facade", "DesignPatterns.Facade\DesignPatterns.Facade.csproj", "{B2597113-FE44-4399-81E8-DE8D25CA9526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Flyweight", "DesignPatterns.Flyweight\DesignPatterns.Flyweight.csproj", "{FE5DA6B4-2FFC-47B9-B3F2-48EA525EE488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Proxy", "DesignPatterns.Proxy\DesignPatterns.Proxy.csproj", "{E50EBA01-80A9-4187-801D-CE75329D30F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +73,18 @@ Global
 		{CA7DCDA2-0550-4D0A-921A-078F3F3CFA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA7DCDA2-0550-4D0A-921A-078F3F3CFA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA7DCDA2-0550-4D0A-921A-078F3F3CFA99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2597113-FE44-4399-81E8-DE8D25CA9526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2597113-FE44-4399-81E8-DE8D25CA9526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2597113-FE44-4399-81E8-DE8D25CA9526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2597113-FE44-4399-81E8-DE8D25CA9526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5DA6B4-2FFC-47B9-B3F2-48EA525EE488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5DA6B4-2FFC-47B9-B3F2-48EA525EE488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5DA6B4-2FFC-47B9-B3F2-48EA525EE488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5DA6B4-2FFC-47B9-B3F2-48EA525EE488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E50EBA01-80A9-4187-801D-CE75329D30F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50EBA01-80A9-4187-801D-CE75329D30F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50EBA01-80A9-4187-801D-CE75329D30F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50EBA01-80A9-4187-801D-CE75329D30F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +99,9 @@ Global
 		{8BD21DB4-4EB2-413C-BF74-C038F471CBA8} = {E7623507-DE8B-4821-AD8E-9C19DA857561}
 		{5AD2D7E8-4D30-484C-AFA4-6E1717481A1C} = {E7623507-DE8B-4821-AD8E-9C19DA857561}
 		{CA7DCDA2-0550-4D0A-921A-078F3F3CFA99} = {E7623507-DE8B-4821-AD8E-9C19DA857561}
+		{B2597113-FE44-4399-81E8-DE8D25CA9526} = {E7623507-DE8B-4821-AD8E-9C19DA857561}
+		{FE5DA6B4-2FFC-47B9-B3F2-48EA525EE488} = {E7623507-DE8B-4821-AD8E-9C19DA857561}
+		{E50EBA01-80A9-4187-801D-CE75329D30F7} = {E7623507-DE8B-4821-AD8E-9C19DA857561}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5151917E-2781-49B7-BDC3-F37D762E3D40}
