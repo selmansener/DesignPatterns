@@ -1,0 +1,11 @@
+C:\Playground\DesignPatterns\DesignPatterns.Mediator\bin\Debug\netcoreapp2.1\DesignPatterns.Mediator.deps.json
+C:\Playground\DesignPatterns\DesignPatterns.Mediator\bin\Debug\netcoreapp2.1\DesignPatterns.Mediator.runtimeconfig.json
+C:\Playground\DesignPatterns\DesignPatterns.Mediator\bin\Debug\netcoreapp2.1\DesignPatterns.Mediator.runtimeconfig.dev.json
+C:\Playground\DesignPatterns\DesignPatterns.Mediator\bin\Debug\netcoreapp2.1\DesignPatterns.Mediator.dll
+C:\Playground\DesignPatterns\DesignPatterns.Mediator\bin\Debug\netcoreapp2.1\DesignPatterns.Mediator.pdb
+C:\Playground\DesignPatterns\DesignPatterns.Mediator\obj\Debug\netcoreapp2.1\DesignPatterns.Mediator.csprojAssemblyReference.cache
+C:\Playground\DesignPatterns\DesignPatterns.Mediator\obj\Debug\netcoreapp2.1\DesignPatterns.Mediator.csproj.CoreCompileInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.Mediator\obj\Debug\netcoreapp2.1\DesignPatterns.Mediator.AssemblyInfoInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.Mediator\obj\Debug\netcoreapp2.1\DesignPatterns.Mediator.AssemblyInfo.cs
+C:\Playground\DesignPatterns\DesignPatterns.Mediator\obj\Debug\netcoreapp2.1\DesignPatterns.Mediator.dll
+C:\Playground\DesignPatterns\DesignPatterns.Mediator\obj\Debug\netcoreapp2.1\DesignPatterns.Mediator.pdb

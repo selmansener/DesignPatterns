@@ -1,0 +1,11 @@
+C:\Playground\DesignPatterns\DesignPatterns.Visitor\bin\Debug\netcoreapp2.1\DesignPatterns.Visitor.deps.json
+C:\Playground\DesignPatterns\DesignPatterns.Visitor\bin\Debug\netcoreapp2.1\DesignPatterns.Visitor.runtimeconfig.json
+C:\Playground\DesignPatterns\DesignPatterns.Visitor\bin\Debug\netcoreapp2.1\DesignPatterns.Visitor.runtimeconfig.dev.json
+C:\Playground\DesignPatterns\DesignPatterns.Visitor\bin\Debug\netcoreapp2.1\DesignPatterns.Visitor.dll
+C:\Playground\DesignPatterns\DesignPatterns.Visitor\bin\Debug\netcoreapp2.1\DesignPatterns.Visitor.pdb
+C:\Playground\DesignPatterns\DesignPatterns.Visitor\obj\Debug\netcoreapp2.1\DesignPatterns.Visitor.csprojAssemblyReference.cache
+C:\Playground\DesignPatterns\DesignPatterns.Visitor\obj\Debug\netcoreapp2.1\DesignPatterns.Visitor.csproj.CoreCompileInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.Visitor\obj\Debug\netcoreapp2.1\DesignPatterns.Visitor.AssemblyInfoInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.Visitor\obj\Debug\netcoreapp2.1\DesignPatterns.Visitor.AssemblyInfo.cs
+C:\Playground\DesignPatterns\DesignPatterns.Visitor\obj\Debug\netcoreapp2.1\DesignPatterns.Visitor.dll
+C:\Playground\DesignPatterns\DesignPatterns.Visitor\obj\Debug\netcoreapp2.1\DesignPatterns.Visitor.pdb

@@ -1,0 +1,11 @@
+C:\Playground\DesignPatterns\DesignPatterns.TemplateMethod\obj\Debug\netcoreapp2.1\DesignPatterns.TemplateMethod.csprojAssemblyReference.cache
+C:\Playground\DesignPatterns\DesignPatterns.TemplateMethod\obj\Debug\netcoreapp2.1\DesignPatterns.TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.TemplateMethod\obj\Debug\netcoreapp2.1\DesignPatterns.TemplateMethod.AssemblyInfoInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.TemplateMethod\obj\Debug\netcoreapp2.1\DesignPatterns.TemplateMethod.AssemblyInfo.cs
+C:\Playground\DesignPatterns\DesignPatterns.TemplateMethod\bin\Debug\netcoreapp2.1\DesignPatterns.TemplateMethod.deps.json
+C:\Playground\DesignPatterns\DesignPatterns.TemplateMethod\bin\Debug\netcoreapp2.1\DesignPatterns.TemplateMethod.runtimeconfig.json
+C:\Playground\DesignPatterns\DesignPatterns.TemplateMethod\bin\Debug\netcoreapp2.1\DesignPatterns.TemplateMethod.runtimeconfig.dev.json
+C:\Playground\DesignPatterns\DesignPatterns.TemplateMethod\bin\Debug\netcoreapp2.1\DesignPatterns.TemplateMethod.dll
+C:\Playground\DesignPatterns\DesignPatterns.TemplateMethod\bin\Debug\netcoreapp2.1\DesignPatterns.TemplateMethod.pdb
+C:\Playground\DesignPatterns\DesignPatterns.TemplateMethod\obj\Debug\netcoreapp2.1\DesignPatterns.TemplateMethod.dll
+C:\Playground\DesignPatterns\DesignPatterns.TemplateMethod\obj\Debug\netcoreapp2.1\DesignPatterns.TemplateMethod.pdb

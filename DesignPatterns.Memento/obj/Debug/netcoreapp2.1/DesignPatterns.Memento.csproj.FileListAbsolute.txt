@@ -1,0 +1,10 @@
+C:\Playground\DesignPatterns\DesignPatterns.Memento\obj\Debug\netcoreapp2.1\DesignPatterns.Memento.csproj.CoreCompileInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.Memento\obj\Debug\netcoreapp2.1\DesignPatterns.Memento.AssemblyInfoInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.Memento\obj\Debug\netcoreapp2.1\DesignPatterns.Memento.AssemblyInfo.cs
+C:\Playground\DesignPatterns\DesignPatterns.Memento\bin\Debug\netcoreapp2.1\DesignPatterns.Memento.deps.json
+C:\Playground\DesignPatterns\DesignPatterns.Memento\bin\Debug\netcoreapp2.1\DesignPatterns.Memento.runtimeconfig.json
+C:\Playground\DesignPatterns\DesignPatterns.Memento\bin\Debug\netcoreapp2.1\DesignPatterns.Memento.runtimeconfig.dev.json
+C:\Playground\DesignPatterns\DesignPatterns.Memento\bin\Debug\netcoreapp2.1\DesignPatterns.Memento.dll
+C:\Playground\DesignPatterns\DesignPatterns.Memento\bin\Debug\netcoreapp2.1\DesignPatterns.Memento.pdb
+C:\Playground\DesignPatterns\DesignPatterns.Memento\obj\Debug\netcoreapp2.1\DesignPatterns.Memento.dll
+C:\Playground\DesignPatterns\DesignPatterns.Memento\obj\Debug\netcoreapp2.1\DesignPatterns.Memento.pdb

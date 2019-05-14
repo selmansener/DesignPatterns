@@ -1,0 +1,11 @@
+C:\Playground\DesignPatterns\DesignPatterns.Interpreter\bin\Debug\netcoreapp2.1\DesignPatterns.Interpreter.deps.json
+C:\Playground\DesignPatterns\DesignPatterns.Interpreter\bin\Debug\netcoreapp2.1\DesignPatterns.Interpreter.runtimeconfig.json
+C:\Playground\DesignPatterns\DesignPatterns.Interpreter\bin\Debug\netcoreapp2.1\DesignPatterns.Interpreter.runtimeconfig.dev.json
+C:\Playground\DesignPatterns\DesignPatterns.Interpreter\bin\Debug\netcoreapp2.1\DesignPatterns.Interpreter.dll
+C:\Playground\DesignPatterns\DesignPatterns.Interpreter\bin\Debug\netcoreapp2.1\DesignPatterns.Interpreter.pdb
+C:\Playground\DesignPatterns\DesignPatterns.Interpreter\obj\Debug\netcoreapp2.1\DesignPatterns.Interpreter.csprojAssemblyReference.cache
+C:\Playground\DesignPatterns\DesignPatterns.Interpreter\obj\Debug\netcoreapp2.1\DesignPatterns.Interpreter.csproj.CoreCompileInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.Interpreter\obj\Debug\netcoreapp2.1\DesignPatterns.Interpreter.AssemblyInfoInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.Interpreter\obj\Debug\netcoreapp2.1\DesignPatterns.Interpreter.AssemblyInfo.cs
+C:\Playground\DesignPatterns\DesignPatterns.Interpreter\obj\Debug\netcoreapp2.1\DesignPatterns.Interpreter.dll
+C:\Playground\DesignPatterns\DesignPatterns.Interpreter\obj\Debug\netcoreapp2.1\DesignPatterns.Interpreter.pdb

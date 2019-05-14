@@ -1,0 +1,10 @@
+C:\Playground\DesignPatterns\DesignPatterns.ChainOfResponsibility\bin\Debug\netcoreapp2.1\DesignPatterns.ChainOfResponsibility.deps.json
+C:\Playground\DesignPatterns\DesignPatterns.ChainOfResponsibility\bin\Debug\netcoreapp2.1\DesignPatterns.ChainOfResponsibility.runtimeconfig.json
+C:\Playground\DesignPatterns\DesignPatterns.ChainOfResponsibility\bin\Debug\netcoreapp2.1\DesignPatterns.ChainOfResponsibility.runtimeconfig.dev.json
+C:\Playground\DesignPatterns\DesignPatterns.ChainOfResponsibility\bin\Debug\netcoreapp2.1\DesignPatterns.ChainOfResponsibility.dll
+C:\Playground\DesignPatterns\DesignPatterns.ChainOfResponsibility\bin\Debug\netcoreapp2.1\DesignPatterns.ChainOfResponsibility.pdb
+C:\Playground\DesignPatterns\DesignPatterns.ChainOfResponsibility\obj\Debug\netcoreapp2.1\DesignPatterns.ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.ChainOfResponsibility\obj\Debug\netcoreapp2.1\DesignPatterns.ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.ChainOfResponsibility\obj\Debug\netcoreapp2.1\DesignPatterns.ChainOfResponsibility.AssemblyInfo.cs
+C:\Playground\DesignPatterns\DesignPatterns.ChainOfResponsibility\obj\Debug\netcoreapp2.1\DesignPatterns.ChainOfResponsibility.dll
+C:\Playground\DesignPatterns\DesignPatterns.ChainOfResponsibility\obj\Debug\netcoreapp2.1\DesignPatterns.ChainOfResponsibility.pdb

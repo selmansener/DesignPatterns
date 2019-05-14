@@ -1,0 +1,11 @@
+C:\Playground\DesignPatterns\DesignPatterns.Iterator\obj\Debug\netcoreapp2.1\DesignPatterns.Iterator.csprojAssemblyReference.cache
+C:\Playground\DesignPatterns\DesignPatterns.Iterator\obj\Debug\netcoreapp2.1\DesignPatterns.Iterator.csproj.CoreCompileInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.Iterator\obj\Debug\netcoreapp2.1\DesignPatterns.Iterator.AssemblyInfoInputs.cache
+C:\Playground\DesignPatterns\DesignPatterns.Iterator\obj\Debug\netcoreapp2.1\DesignPatterns.Iterator.AssemblyInfo.cs
+C:\Playground\DesignPatterns\DesignPatterns.Iterator\bin\Debug\netcoreapp2.1\DesignPatterns.Iterator.deps.json
+C:\Playground\DesignPatterns\DesignPatterns.Iterator\bin\Debug\netcoreapp2.1\DesignPatterns.Iterator.runtimeconfig.json
+C:\Playground\DesignPatterns\DesignPatterns.Iterator\bin\Debug\netcoreapp2.1\DesignPatterns.Iterator.runtimeconfig.dev.json
+C:\Playground\DesignPatterns\DesignPatterns.Iterator\bin\Debug\netcoreapp2.1\DesignPatterns.Iterator.dll
+C:\Playground\DesignPatterns\DesignPatterns.Iterator\bin\Debug\netcoreapp2.1\DesignPatterns.Iterator.pdb
+C:\Playground\DesignPatterns\DesignPatterns.Iterator\obj\Debug\netcoreapp2.1\DesignPatterns.Iterator.dll
+C:\Playground\DesignPatterns\DesignPatterns.Iterator\obj\Debug\netcoreapp2.1\DesignPatterns.Iterator.pdb
